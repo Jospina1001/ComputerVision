@@ -1,0 +1,6 @@
+set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} ${CMAKE_CURRENT_SOURCE_DIR}/cmake-modules)
+cmake_minimum_required(VERSION 3.5)
+project(PrimerCorte_Taller1 )
+find_package( OpenCV REQUIRED)
+add_executable(PrimerCorte_Taller1 main.cpp)
+target_link_libraries( PrimerCorte_Taller1  ${OpenCV_LIBS} )

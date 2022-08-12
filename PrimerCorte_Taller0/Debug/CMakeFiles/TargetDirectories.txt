@@ -1,0 +1,3 @@
+/home/hp/ComputerVision/PrimerCorte_Taller0/Debug/CMakeFiles/rebuild_cache.dir
+/home/hp/ComputerVision/PrimerCorte_Taller0/Debug/CMakeFiles/edit_cache.dir
+/home/hp/ComputerVision/PrimerCorte_Taller0/Debug/CMakeFiles/PrimerCorte_Taller0.dir

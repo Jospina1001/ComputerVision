@@ -1,0 +1,3 @@
+/home/hp/ComputerVision/SegundoCorte_Parcial/Debug/CMakeFiles/rebuild_cache.dir
+/home/hp/ComputerVision/SegundoCorte_Parcial/Debug/CMakeFiles/edit_cache.dir
+/home/hp/ComputerVision/SegundoCorte_Parcial/Debug/CMakeFiles/SegundoCorte_Parcial.dir

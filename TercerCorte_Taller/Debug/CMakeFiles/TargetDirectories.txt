@@ -1,0 +1,3 @@
+/home/hp/ComputerVision/TercerCorte_Taller/Debug/CMakeFiles/rebuild_cache.dir
+/home/hp/ComputerVision/TercerCorte_Taller/Debug/CMakeFiles/edit_cache.dir
+/home/hp/ComputerVision/TercerCorte_Taller/Debug/CMakeFiles/TercerCorte_Taller.dir
